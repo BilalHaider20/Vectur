@@ -7,6 +7,7 @@ Sir Tauseef Iftikhar
 Name: Bilal Haider  
 Roll No: 0043-BSCS-22  
 Section: A1
+Email: haiderbilal306@gmail.com
 
 ## Overview
 Vectur is a software company website built with Next.js (React-based framework) that showcases the company's services and handles client interactions through contact forms and job applications.
@@ -71,16 +72,10 @@ The application follows the **MVC (Model-View-Controller)** architectural patter
 - **Frontend Transitions and Gradients** - Smooth CSS animations, hover effects, and modern gradient backgrounds for enhanced visual appeal  
 - **Dynamic Routing** - Next.js App Router with file-based routing system for seamless navigation between pages  
 - **Resume Upload API** - Dedicated RESTful API endpoint for secure job application file uploads with validation  
-- **Responsive Mobile Design** - Fully responsive layout using Tailwind CSS for optimal viewing on all screen sizes  
-- **Server-Side Rendering (SSR)** - Enhanced SEO performance and faster initial page loads  
-- **Component-Based Architecture** - Modular React components for code reusability and maintainability  
+- **Responsive Mobile Design** - Fully responsive layout using Tailwind CSS for optimal viewing on all screen sizes   
 - **MongoDB Database Integration** - Robust data persistence for contact forms and job applications  
 - **Form Validation & Error Handling** - Client-side and server-side validation with user-friendly error messages  
-- **Interactive UI Elements** - Dynamic sidebar, smooth scrolling, and engaging user interactions  
-- **SEO Optimization** - Meta tags, structured data, and performance optimization for search engines  
 - **File Upload Middleware** - Custom secure file handling with type validation and size restrictions  
-- **Cross-Browser Compatibility** - Consistent experience across all modern web browsers  
-- **Environment Configuration** - Secure API key and database connection management  
 - **Loading States & Feedback** - User-friendly loading indicators and success/error notifications
 
 ## MVC Architecture Implementation
@@ -112,7 +107,7 @@ React components and Next.js pages providing the user interface:
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/BilalHaider20/Vectur
 cd vectur-website
 ```
 
@@ -139,3 +134,7 @@ npm run dev
 - `POST /api/contact` - Submit contact form with validation  
 - `POST /api/jobApplication` - Submit job application with resume upload  
 - File upload support with type validation (PDF, DOC, DOCX)
+
+
+### Github
+[https://github.com/BilalHaider20](https://github.com/BilalHaider20)
