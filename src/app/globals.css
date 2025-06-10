@@ -1,0 +1,46 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600&family=Inter:wght@400;500;700&display=swap');
+
+@import "tailwindcss";
+
+
+
+/* Tailwind CSS configuration */
+:root {
+  --blue: #009CFF;
+  --gray-light: #DCDCDC;
+  --gray-medium: #B1B1B1;
+  --blue-dark: #00597F;
+  --gradient: linear-gradient(90deg, #009CFF, #00597F);
+}
+
+
+@theme {
+  --color-blue: #009CFF;
+  --color-gray-light: #DCDCDE;
+  --color-gray-medium: #B3B3B3;
+  --color-blue-dark: #08182F;
+  --color-custom-gradient: linear-gradient(90deg, #009CFF, #08182F);
+
+  --font-inter: 'Inter', sans-serif;
+  --font-sora:'Sora', sans-serif;
+}
+
+
+/* Global styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+a{
+  text-decoration: none;
+}
+
+/* Additional styles for background gradients */
+.gradient-background {
+  background: var(--gradient);
+}
