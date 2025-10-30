@@ -1,14 +1,5 @@
 # Vectur - Software Company Website
 
-**Submitted To:**  
-Sir Tauseef Iftikhar
-
-**Submitted By:**  
-Name: Bilal Haider  
-Roll No: 0043-BSCS-22  
-Section: A1
-Email: haiderbilal306@gmail.com
-
 ## Overview
 Vectur is a software company website built with Next.js (React-based framework) that showcases the company's services and handles client interactions through contact forms and job applications.
 The application implements a robust MVC architecture with MongoDB integration, featuring secure file upload capabilities and RESTful API endpoints for seamless user engagement and business operations.
