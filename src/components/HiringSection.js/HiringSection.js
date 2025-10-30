@@ -17,7 +17,7 @@ const HiringSection = () => {
           <div className="max-w-7xl mx-auto px-4">
             <h2 className="xl:text-[44px] lg:text-10rem text-3xl font-bold text-center mb-8 text-gray-light font-sora">Join Our Team</h2>
             <p className="lg:text-lg text-base text-center text-gray-medium mb-12">
-              We're looking for passionate developers to join our growing team
+              We&apos;re looking for passionate developers to join our growing team
             </p>
             
             <div className="grid md:grid-cols-2 gap-8">

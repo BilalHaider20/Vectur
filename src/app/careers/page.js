@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 import { ChevronRight } from "lucide-react";
 import swal from "sweetalert";
 
-const index = () => {
+const Index = () => {
 
 
     const formRef = useRef(null);
@@ -270,4 +270,4 @@ const index = () => {
     );
 };
 
-export default index;
+export default Index;
