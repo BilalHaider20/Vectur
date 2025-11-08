@@ -5,6 +5,20 @@ Vectur is a software company website built with Next.js (React-based framework) 
 The application implements a robust MVC architecture with MongoDB integration, featuring secure file upload capabilities and RESTful API endpoints for seamless user engagement and business operations.
 
 
+## Demo
+
+### Hero Section
+![Hero Section](gallery/Hero-Section.png)
+
+### About Us
+![About Us](gallery/About-Us.png)
+
+### Purpose & Approach
+![Purpose & Approach](gallery/Purpose%20&%20Approach.png)
+
+### Tech Stack
+![Tech Stack](gallery/Tech-Stack.png)
+
 ## Architecture
 
 The application follows the **MVC (Model-View-Controller)** architectural pattern, ensuring clean separation of concerns and maintainable code structure.
